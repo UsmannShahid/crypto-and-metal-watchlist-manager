@@ -1,0 +1,19 @@
+{
+  "name": "crypto-and-metal-watchlist-manager",
+  "version": "1.0.0",
+  "description": "Users can view their asset watchlist, filter assets by category using query parameter, fetch details of a specific asset using route parameters and add a new asset to their watch via an html form",
+  "license": "ISC",
+  "author": "Usman Shahid",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
