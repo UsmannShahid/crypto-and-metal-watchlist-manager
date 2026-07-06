@@ -4,14 +4,14 @@
     "name": "Bitcoin",
     "symbol": "BTC",
     "category": "crypto",
-    "price": 64250.00
+    "price": 64250
   },
   {
     "id": 2,
     "name": "Gold Cash Ounce",
     "symbol": "XAU",
     "category": "metals",
-    "price": 2345.60
+    "price": 2345.6
   },
   {
     "id": 3,
@@ -26,5 +26,12 @@
     "symbol": "XAG",
     "category": "metals",
     "price": 29.15
+  },
+  {
+    "id": 5,
+    "name": "Solana",
+    "symbol": "SOL",
+    "category": "crypto",
+    "price": 145.8
   }
 ]

@@ -40,7 +40,7 @@ app.get('/api/assets/:id', (req, res) => {
 
 app.use(express.json())
 
-app.post('api/assets', (req, res) => {
+app.post('/api/assets', (req, res) => {
 
   const { name, symbol, category, price } = req.body
 
