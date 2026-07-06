@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "category": "crypto",
+    "price": 64250.00
+  },
+  {
+    "id": 2,
+    "name": "Gold Cash Ounce",
+    "symbol": "XAU",
+    "category": "metals",
+    "price": 2345.60
+  },
+  {
+    "id": 3,
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "category": "crypto",
+    "price": 3480.25
+  },
+  {
+    "id": 4,
+    "name": "Silver Ounce",
+    "symbol": "XAG",
+    "category": "metals",
+    "price": 29.15
+  }
+]
